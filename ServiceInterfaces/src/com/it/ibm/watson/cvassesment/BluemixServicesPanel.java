@@ -19,10 +19,6 @@ import javax.swing.border.EtchedBorder;
  * 
  */
 
-/*
- * abbiamo iniziato ad usare git...che figata!
- * Ora modifico nuovamente, anche se in realtà è già in stage
- */
 
 public class BluemixServicesPanel extends JPanel implements ActionListener {
 	
