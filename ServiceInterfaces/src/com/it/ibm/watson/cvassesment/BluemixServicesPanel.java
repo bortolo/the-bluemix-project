@@ -9,6 +9,9 @@ import javax.swing.*;
 import javax.swing.border.Border;
 import javax.swing.border.EtchedBorder;
 
+/*
+ * STEP 3
+ */
 
 /*
  * BluemiServicesPanel manages the layout of the panel where each account and password 
