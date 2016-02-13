@@ -13,6 +13,8 @@ import javax.swing.border.EtchedBorder;
  * STEP 3
  * 
  * Continuando sul master
+ * 
+ * Proviamo invece quest'altra strada, step 3 ma BR2
  */
 
 /*
