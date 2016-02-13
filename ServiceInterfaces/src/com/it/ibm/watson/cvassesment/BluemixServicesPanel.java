@@ -23,9 +23,6 @@ import javax.swing.border.EtchedBorder;
  * 
  */
 
-/*
- * Abbiamo fatto la cosa giusta
- */
 
 
 public class BluemixServicesPanel extends JPanel implements ActionListener {
