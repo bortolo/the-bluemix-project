@@ -18,6 +18,8 @@ import javax.swing.border.EtchedBorder;
  * prima prova, continuiamo sulla strada BR1
  * 
  * 
+ * Proviamo invece quest'altra strada, step 3 ma BR2
+ * 
  * in ogni caso sul master si può andare avanti a fare modifiche non trovate?
  * 
  * Quindi dicevamo con queste modifiche da master!
