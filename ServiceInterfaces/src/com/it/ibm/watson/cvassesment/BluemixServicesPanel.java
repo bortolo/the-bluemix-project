@@ -15,6 +15,8 @@ import javax.swing.border.EtchedBorder;
  * Continuando sul master
  * 
  * in ogni caso sul master si può andare avanti a fare modifiche non trovate?
+ * 
+ * Quindi dicevamo con queste modifiche da master!
  */
 
 /*
