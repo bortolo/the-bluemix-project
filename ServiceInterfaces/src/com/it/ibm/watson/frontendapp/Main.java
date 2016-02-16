@@ -1,5 +1,9 @@
 package com.it.ibm.watson.frontendapp;
 
+/*
+ * altra modifica
+ * 
+ */
 public class Main {
 
 	public static void main(String[] args) {
