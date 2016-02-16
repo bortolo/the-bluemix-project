@@ -8,8 +8,6 @@ public class Main {
 		
 		ServiceCatalog catalog = new ServiceCatalog();
 		
-		/*GlobalPanel mainpanel = new GlobalPanel();*/
-		
 	    javax.swing.SwingUtilities.invokeLater(new Runnable() {
 	        public void run() {
 	             catalog.createAndShowGUI();
