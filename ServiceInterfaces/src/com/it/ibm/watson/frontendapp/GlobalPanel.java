@@ -1,4 +1,4 @@
-package com.it.ibm.watson.cvassesment;
+package com.it.ibm.watson.frontendapp;
 
 import java.awt.*;
 import javax.swing.JPanel;

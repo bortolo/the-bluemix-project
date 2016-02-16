@@ -1,4 +1,4 @@
-package com.it.ibm.watson.cvassesment;
+package com.it.ibm.watson.frontendapp;
 
 public class Main {
 
